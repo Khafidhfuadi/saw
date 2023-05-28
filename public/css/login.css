@@ -1,0 +1,58 @@
+body {
+    background-color: #ffffff !important;
+}
+
+.container-fluid .row .col-md-8 img {
+    height: auto;
+    width: 100%;
+    object-fit: fill;
+}
+
+.center-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+form {
+    font-family: "SF Pro Display", sans-serif;
+}
+
+.form-group > label {
+    padding-left: 16px;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 0.3px;
+    color: #333333;
+}
+
+.form-check-label {
+    font-style: normal;
+
+    font-size: 12px;
+    color: #1a1a1a;
+}
+
+.forgot-pw {
+    font-style: normal;
+    text-align: right;
+    letter-spacing: 0.3px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.submit-btn {
+    background: #019966;
+    color: #ffffff;
+    margin-top: 84px;
+    border-radius: 6px;
+    font-family: "Roboto";
+}
+
+.submit-btn:hover {
+    background: #019966;
+    color: #ffffff;
+}

@@ -1,0 +1,144 @@
+.kpi-wrap,
+.employee-wrap,
+.attitude-wrap,
+.productivity-wrap,
+.discipline-wrap {
+    width: 160px;
+    height: 100px;
+    padding: 0;
+    margin: 0;
+}
+
+.dropdown-toggle {
+    width: 150px;
+    height: 29px;
+}
+.dropdown {
+    width: 150px;
+    height: 29px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    border: none;
+
+    color: #494848;
+}
+
+.dropdown-menu {
+    padding: 0;
+    margin: 0;
+    background-color: #f8f8f8;
+}
+
+.btn:hover {
+    border: none;
+}
+
+.stat-sec {
+    margin-top: 2.875rem;
+}
+
+.stat-card {
+    width: 12.688rem;
+    height: 13.75rem;
+
+    background: #ffffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.data-number {
+    margin-top: 0.875rem;
+
+    line-height: 18px;
+    margin-bottom: 9px;
+}
+
+.increase {
+    color: #00b894;
+}
+
+.decrease {
+    color: #ff7675;
+}
+
+hr {
+    margin: 12px -40px 40px;
+    border: 0;
+    border: 1px solid #d7d7d7;
+}
+
+.best-employee-card {
+    width: 100%;
+    height: 451px;
+    background: #ffffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    padding: 26px;
+    padding-top: 24px;
+}
+
+.best-employee-heading {
+    font-size: 23px;
+    line-height: 27px;
+    text-transform: capitalize;
+    color: #130f26;
+}
+
+.view-all {
+    line-height: 19px;
+    text-transform: capitalize;
+    color: #452f02;
+}
+
+a {
+    text-decoration: none;
+}
+
+.employee-name {
+    font-size: 22px;
+    color: #494848;
+}
+
+.job-position {
+    margin-top: 9px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    color: #a2a9b0;
+}
+
+thead {
+    color: #a2a9b0;
+    text-transform: capitalize;
+}
+
+td {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 16px;
+    color: #494848;
+    vertical-align: middle;
+}
+
+@media (max-width: 1300px) {
+    .stat-card,
+    nav {
+        zoom: 80%;
+    }
+
+    /*make stat-card to center*/
+    .stat-card {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media (max-width: 480px) {
+    /* .card-body {
+        zoom: 100%;
+    } */
+}

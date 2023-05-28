@@ -1,0 +1,194 @@
+@import url("https://fonts.cdnfonts.com/css/sf-pro-display");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Montserrat:wght@600&display=swap");
+body {
+    background: rgba(248, 248, 248, 1);
+}
+
+.mt-16 {
+    margin-top: 16px;
+}
+
+.mt-20 {
+    margin-top: 20px !important;
+}
+
+.mt-35 {
+    margin-top: 35px;
+}
+
+.mt-37 {
+    margin-top: 37px;
+}
+
+.mt-40 {
+    margin-top: 40px;
+}
+
+.mt-100 {
+    margin-top: 6.25rem;
+}
+
+.mr-4 {
+    margin-right: 4px;
+}
+
+.ml-8 {
+    margin-left: 8px;
+}
+
+.ml-10 {
+    margin-left: 10px;
+}
+
+.ml-15 {
+    margin-left: 15px;
+}
+
+.ml-20 {
+    margin-left: 20px;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+.mb-40 {
+    margin-bottom: 40px;
+}
+
+.pl-35 {
+    padding-left: 35px;
+}
+
+.pt-20 {
+    padding-top: 20px;
+}
+
+.normal-text {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.heading-text {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 28px;
+    /* identical to box height, or 70% */
+
+    letter-spacing: 0.216px;
+
+    /* Default Black */
+
+    color: #494848;
+}
+
+.sub-text {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+
+    text-transform: capitalize;
+
+    color: #a2a9b0;
+}
+
+.text-title {
+    font-family: "Playfair Display", serif;
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.roboto-300 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 300;
+}
+
+.roboto-400 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+}
+
+.roboto-500 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+}
+
+.roboto-700 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 700;
+}
+
+.roboto-400 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+}
+
+.mons-400 {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+}
+
+.mons-500 {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 500;
+}
+.mons-600 {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+}
+
+.inter-400 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+}
+
+.inter-600 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 600;
+}
+
+.fs-12 {
+    font-size: 12px;
+}
+
+.fs-14 {
+    font-size: 14px;
+}
+
+.fs-16 {
+    font-size: 16px;
+}
+
+.fs-20 {
+    font-size: 20px;
+}
+
+.fs-22 {
+    font-size: 22px;
+}
+
+.fs-56 {
+    font-size: 56px;
+}

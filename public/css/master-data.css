@@ -1,0 +1,119 @@
+button.add-btn {
+    width: 96px;
+    height: 38px;
+    background: #019966;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 7.7907px;
+    color: white;
+    border: none;
+}
+
+button.add-btn:hover {
+    background: #019966;
+    color: white;
+}
+
+.badge {
+    background-color: #f2f4f8;
+    color: black;
+    font-weight: normal;
+    font-size: 12px;
+}
+
+.dropdown-toggle::after {
+    content: none;
+}
+
+button.multiselect.dropdown-toggle.btn.btn-default {
+    width: auto;
+    height: 38px;
+    background: #ffffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 7.79px;
+    color: #494848;
+}
+
+.download-btn {
+    width: 96px;
+    height: 38px;
+    background: #ffffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 7.79px;
+    color: #494848;
+}
+
+ul.multiselect-container.dropdown-menu.show {
+    padding: 11px;
+    overflow-y: scroll;
+}
+
+input[type="checkbox"] {
+    background: #019966 !important;
+    border-radius: 1px;
+}
+
+.dataTables_paginate {
+    font-size: 16px;
+}
+
+a.paginate_button.current {
+    background: rgba(166, 200, 255, 1) !important;
+    color: rgba(0, 29, 108, 1) !important;
+    border: 2px solid #a6c8ff !important;
+}
+
+input#datetimerange-input1 {
+    height: 40px;
+    width: auto;
+    background: #ffffff;
+    color: #494848;
+    border: 1px solid #e0e0e0;
+    border-radius: 20px;
+}
+
+.modal-content {
+    padding: 0px 80px;
+    height: auto;
+    width: 560px;
+    border-radius: 20px !important;
+}
+
+.modal-body > form > label {
+    margin-top: 28px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.modal-body > form > input,
+select {
+    background: #ffffff;
+    border: 0.5px solid #e5e5e5;
+    border-radius: 6px;
+    height: 48px;
+    width: 100%;
+    margin: 0;
+}
+
+.submit-btn {
+    width: 96px;
+    height: 38px;
+
+    background: #019966;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 7.7907px;
+}
+
+.cancel-btn {
+    width: 96px;
+    height: 38px;
+    border: none;
+    background: #cccccc;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 7.7907px;
+    color: white;
+}
+
+.cancel-btn:hover {
+    background: #b3b3b3;
+    color: white;
+}
